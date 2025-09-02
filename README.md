@@ -1,2 +1,1 @@
-# Deepak-fullstack-portfolio
-Deepak's Full-Stack Development Portfolio - Cross-platform ride-hailing app (React Native) and real-time multiplayer gaming platform (MERN Stack). Demonstrating expertise in modern web technologies, mobile development, and scalable architecture.
+Deepak's full-stack development showcase: Cross-platform ride-booking mobile app with GPS tracking, payment processing & real-time gaming platform with multiplayer synchronization. Tech stack: React Native, TypeScript, Node.js, PostgreSQL, Redis, WebSocket, Google Maps & Stripe APIs.
